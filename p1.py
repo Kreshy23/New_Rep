@@ -1,3 +1,6 @@
+# LNVS Rishit Krishna
+# E22CSEU0107
+
 class FlightTable:
     def _init_(self):
         self.data = [
