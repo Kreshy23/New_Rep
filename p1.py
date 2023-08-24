@@ -56,5 +56,5 @@ def main():
             for match in matches:
                 print(f"{match['Location']}\t{match['Team 01']}\t{match['Team 02']}\t{match['Timing']}")
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
