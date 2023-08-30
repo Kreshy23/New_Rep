@@ -9,3 +9,4 @@ list3 = []
 list = np.array(list2)
 list[:,0]
 print(list)
+#jhk
